@@ -8,5 +8,3 @@ fields:
   description: irgend e Beschriibig
   label: Titelfeld
   name: titelfeld
-pages:
-- content/title.md
