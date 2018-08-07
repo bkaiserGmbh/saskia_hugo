@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/test/</loc>
+    <loc>http://saskiakaiser.ch/post/test/</loc>
     <lastmod>2018-08-07T18:11:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/post2/</loc>
+    <loc>http://saskiakaiser.ch/post/post2/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://saskiakaiser.ch/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://saskiakaiser.ch/post/</loc>
     <lastmod>2018-08-07T18:11:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://saskiakaiser.ch/</loc>
     <lastmod>2018-08-07T18:11:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://saskiakaiser.ch/tags/</loc>
     <priority>0</priority>
   </url>
   
