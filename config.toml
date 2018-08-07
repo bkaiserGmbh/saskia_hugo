@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Saskia"
 theme = "hugo-theme-massively"
