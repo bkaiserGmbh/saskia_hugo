@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+
+baseURL = "http://saskiakaiser.ch/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Saskia"
