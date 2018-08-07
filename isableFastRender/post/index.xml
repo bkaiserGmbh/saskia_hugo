@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Saskia Kaiser</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:54374/post/</link>
     <description>Recent content in Posts on Saskia Kaiser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Aug 2018 18:11:04 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:54374/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test2</title>
-      <link>http://localhost:1313/post/test/</link>
+      <title>Test5</title>
+      <link>http://localhost:54374/post/test/</link>
       <pubDate>Tue, 07 Aug 2018 18:11:04 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>http://localhost:54374/post/test/</guid>
       <description>Ein neuer Post saskias website Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius nulla ac mauris condimentum, non ornare erat feugiat. Praesent pulvinar luctus commodo. Aenean mollis dolor at est volutpat aliquet. Aenean aliquam semper odio sit amet mollis. Morbi vehicula urna sit amet ipsum interdum fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget dignissim nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>http://localhost:1313/post/post2/</link>
+      <link>http://localhost:54374/post/post2/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/post2/</guid>
+      <guid>http://localhost:54374/post/post2/</guid>
       <description>Dies ist ein Test.</description>
     </item>
     
