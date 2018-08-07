@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saskia</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Saskia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Aug 2018 18:11:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test2</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Tue, 07 Aug 2018 18:11:04 +0000</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>Ein neuer Post saskias website Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius nulla ac mauris condimentum, non ornare erat feugiat. Praesent pulvinar luctus commodo. Aenean mollis dolor at est volutpat aliquet. Aenean aliquam semper odio sit amet mollis. Morbi vehicula urna sit amet ipsum interdum fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget dignissim nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Ante mattis interdum dolor</title>
+      <link>http://example.org/post/post2/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/post2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
