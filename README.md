@@ -12,5 +12,6 @@ Die custom domain [saskiakaiser.ch](https://saskiakaiser.ch) und das Server Cert
 Siehe auch Datei CNAME im static Verzeichnis.
 
 
-_ACHTUNG:_
+__ACHTUNG:__
+
 nach einem Update mit Deployment aus Forestry funktioniert des Setzen der Custom Domain noch nicht. Der Zugriff auf die produktive Site saskiakaiser.ch endet dann in einem 403 Fehler. In dieser Situation muss in den github Settings die Custom Domain manuell auf saskiakaiser.ch gesetzt werden. Nach einigen Minuten erscheint dann die Website wieder. Es scheint ein Fehler mit dem CNAME-File zu sein, das noch behoben werden muss.
