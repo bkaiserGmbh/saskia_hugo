@@ -1,6 +1,8 @@
 +++
 date = "2017-11-02T13:52:44+00:00"
-draft = true
+description = "The aim of this essay is to shed some light on the poor integration of Muslims in British society."
+draft = false
+image = "British_Islam_Flag.png"
 title = "Muslim Integration in British Society"
 
 +++
