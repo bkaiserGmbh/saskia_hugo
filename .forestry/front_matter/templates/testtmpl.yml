@@ -8,3 +8,5 @@ fields:
   label: TestLabel
   name: testlabel
   description: Testdescription
+pages:
+- content/mein-erster-test.md
