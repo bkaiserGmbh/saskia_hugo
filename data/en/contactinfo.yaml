@@ -1,5 +1,5 @@
 ---
-contactformaction: post-action
+contactformaction: "//formspree.io/saskia@saskiakaiser.ch"
 address:
 - line: Mutschellenstrasse 92
 - line: CH-8038 Zürich
