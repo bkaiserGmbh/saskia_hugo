@@ -4,3 +4,8 @@ testlabel = "Test"
 title = "Mein erster Test"
 
 +++
+--- 
+
+menu: "test" 
+
+---
