@@ -3,8 +3,9 @@
 <nav id="nav">
     <ul class="links">
         <li {{ if eq .URL "/" }}class="active"{{ end }}><a href='{{ "/" | relLangURL }}'>{{ .Site.Title }}</a></li>
+        <li {{ if eq .File.BaseFileName "essays" }}class="active"{{ end }}><a href="/essays">essays</a></li>
+        <li {{ if eq .File.BaseFileName "papers" }}class="active"{{ end }}><a href="/papers">papers</a></li>
         <li {{ if eq .File.BaseFileName "about" }}class="active"{{ end }}><a href="/about">about</a></li>
-        <li {{ if eq .File.BaseFileName "papi" }}class="active"{{ end }}><a href="/papi">papi</a></li>
         {{ with $data.contactinfo }}
         <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
         {{ end }}
