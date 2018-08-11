@@ -1,0 +1,12 @@
+---
+label: TestTmpl
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  default: Test
+  label: TestLabel
+  name: testlabel
+  description: Testdescription
+pages:
+- content/mein-erster-test.md
