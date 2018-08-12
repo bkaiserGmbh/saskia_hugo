@@ -1,6 +1,6 @@
 +++
 date = "2017-11-02T13:52:44+00:00"
-description = "With the waves of immigrants fleeing Muslim countries, I decided to take a closer look at the current state of Muslim integration in Great Britain."
+description = "With the waves of immigrants fleeing Muslim countries every day, I decided to take a closer look at the current state of Muslim integration in Great Britain."
 image = "/uploads/British_Islam_Flag.png"
 title = "Muslim Integration in British Society"
 
