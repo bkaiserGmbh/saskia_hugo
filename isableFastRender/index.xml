@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 11 Aug 2018 16:03:06 +0200</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>Sali</description>
-    </item>
-    
-    <item>
       <title>Test6</title>
       <link>http://localhost:1313/post/test/</link>
       <pubDate>Tue, 07 Aug 2018 18:11:04 +0000</pubDate>
@@ -55,6 +46,15 @@
       
       <guid>http://localhost:1313/post/posts/</guid>
       <description>“To hell with their culture” - this outburst by Richard Dawkins, an English ethologist and author, stems from a TV chat show where he criticized some practices of Islam, such as women being forced to wear burqas (Walsh). Dawkins’ statement sparked heated conversations on social media revealing that many others share his attitude towards Islam (Worthing). This is one of many cases demonstrating the divide between British and Muslim communities, which can only be bridged by integrating Muslims into British society.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 06 May 1996 22:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About me Hi! I’m Saskia, a twenty-something year old English and film major at the University of Zürich in Switzerland. I love reading, writing and everything food or game of thrones related. As most millennials I too am still uncertain about my future plans and while I seem to be getting the hang of certain aspects of adulthood, I’m constantly wandering through life trying to find my passion (or at least a new hobby that could point me into the right direction).</description>
     </item>
     
   </channel>

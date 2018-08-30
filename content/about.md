@@ -1,9 +1,9 @@
----
-title: About
-date: 1996-05-06 22:00:00 +0000
++++
+title = "About"
+date = "1996-05-06 22:00:00 +0000"
+image = "/uploads/IMG_8921.jpg"
 
----
-![](/uploads/IMG_8921.jpg)
++++
 
 ### About me
 
