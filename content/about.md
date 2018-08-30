@@ -3,7 +3,7 @@ title: About
 date: 1996-05-06 22:00:00 +0000
 
 ---
-![](/uploads/tumblr_static_tumblr_static__640.jpg)
+![](/uploads/IMG_8921.jpg)
 
 ### About me
 
